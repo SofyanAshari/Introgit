@@ -21,3 +21,15 @@ git diff readme.txt
 
 # Step Four :
 git checkout readme.txt
+
+# Step Five :
+Create Github Account
+Login
+Create Repository
+
+# Step Six :
+git status
+git add .
+git remote set-url origin https://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@github.com/SofyanAshari/Introgit.git
+git remote add origin https://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@github.com/SofyanAshari/Introgit.git
+git push origin -u main
