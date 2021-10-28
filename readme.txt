@@ -15,3 +15,9 @@ touch file1.txt file2.txt
 open file1.txt file2.txt
 git add . //this is for add/save all file
 git status
+
+# Step Three :
+git diff readme.txt
+
+# Step Four :
+git checkout readme.txt
